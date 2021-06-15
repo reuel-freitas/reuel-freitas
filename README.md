@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at Giusoft Tecnologia
-- 🌱 I’m currently learning JS, PHP, AJAX, PDO, SQL and now how to increment Jquery in my web applications.
+- 🌱 I’m currently learning JS, AJAX, MySQL and now how to increment React and Node in my web applications.
 - 👯 I’m looking to collaborate at the company where I've worked.
 
 
 - 📫 How to reach me: 
-- Instagram: @reuel_freitas
+- Whatsapp Business: wa.me/5574991539659
 - LinkedIn: linkedin.com/in/reuel-freitas/
 
