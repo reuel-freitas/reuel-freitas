@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working at W3Lib as Jr Full-stack Developer.
-- 🌱 I’m learning React, Node, Next and Mongo through the company.
+- 🌱 Stack: Javascript, React, Node, Next and Mongo.
 - 👯 I’m looking to collaborate at the company where I've worked.
 
 
