@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Giusoft Tecnologia
-- 🌱 I’m currently learning JS and now how to increment React, Node and Mongo in my web applications.
+- 🔭 I’m currently working at W3Lib as Jr Full-stack Developer.
+- 🌱 I’m learning React, Node, Next and Mongo through the company.
 - 👯 I’m looking to collaborate at the company where I've worked.
 
 
